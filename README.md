@@ -5,7 +5,7 @@
 <p align="center" style="margin-top: 2rem">
   <a href="#descricao">Descrição</a>  |
   <a href="#aplicacao">Aplicação</a>  |
-  <a href="#tecnologia">Tecnologia</a>  |
+  <a href="#tecnologias">Tecnologias</a>  |
   <a href="#testeaqui">Teste Aqui</a>  |
   <a href="#autor">Autor</a>  
 </p>
